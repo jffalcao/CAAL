@@ -68,7 +68,7 @@ Je vois au moins deux problèmes:
 
 ### Les pistes de modernisation des applications
 
-Il y a un travail d’analyse qui a été fait par Pivotal (commandité par AcceD) sauf qu’on ne l’a pas récupéré.
+Il y a un travail d’analyse qui a été fait par Pivotal (commandité par AD) sauf qu’on ne l’a pas récupéré.
 Aussi, Pivotal est actuellement en train de faire le même travail du côté du PIC.
 
 Cela étant dit, la modernisation des applications peut avoir plusieurs facettes:
