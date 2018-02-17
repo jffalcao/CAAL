@@ -2,11 +2,11 @@
 
 ## Demande initiale
 
-Objet : Réflexion sur le futur des technologies supportées par la DCOD
+Objet : Réflexion sur le futur des technologies supportées par DeCOD
 
-Commencer une réflexion sur le futur des technologies et d’organiser cette reflxion à l’intérieur d’un rapport de Veille.
+Commencer une réflexion sur le futur des technologies et l’organiser par le biais de l'initiative de refonte du CAAL.
 
-J’aimerais avoir vos commentaires et opinions sur les sujets suivants;
+J’aimerais avoir vos commentaires et opinions sur les éléments suivants;
 
 * Quels sont les sujets à suivre dans le cadre de la veille technologique
 * Le CAAL actuel (ce qui manque, ce qui doit être changé, quand et comment le publier)
@@ -21,7 +21,7 @@ J’aimerais avoir vos commentaires et opinions sur les sujets suivants;
 
 ### Les sujets à suivre dans le cadre de la veille technologique
 
-Si on se base sur l’évolution du marché en général, voici qui évoluent rapidement et qui risquent d’être « disruptive » :
+Si on se base sur l’évolution du marché en général, voici qui évoluent rapidement et qui risquent d’être «disruptive» :
 
 * La voix comme interface utilisateur et les assistants : Avec l’apparition des assistants (Google assistant, Siri, Amazon Alexa) et l’intelligence artificielle, cela redéfinit l’interface homme – machine. Évidemment, on ne s’attend pas à ce qu’on commande une transaction bancaire par la voix dans un futur proche, mais c’est un sujet à suivre
 * Effervescence du marché d’infrastructure techno : Avec l’ascension de Kubernetes d’une part et du Serverless computing d’autre part, est-ce que nos choix, incluant le PAAS sont encore valides?  À quoi devrait ressembler notre parc applicatif (d’un point de vue de déploiement)? Quelles sont les solutions pour atténuer les coûts d’exploitation?
@@ -93,7 +93,7 @@ D’autant plus qu’on doit assurer une immuabilité des infrastructures.
 
 ### Quel peut-être notre apport en assurance Qualité sur le cycle de développement
 
-Je pense que la DCOD doit s’assurer que :
+Je pense que DeCOD doit s’assurer que :
 
 * Les outils requis pour le TDD soient inclus dans son coffre à outils
 * Les pratiques TDD soient vulgarisées et communiquées à l’ensemble des développeurs.
